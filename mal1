@@ -27,13 +27,16 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="ASTRO",ASTRO Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="ASTRO",Astro Shuang Xing (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="ASTRO",ASTRO VAANAVIL
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_SHX.png/220px-Astro_SHX.png" group-title="ASTRO",Astro Shuang Xing (720p) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-country="MY" tvg-language="Tamil" tvg-logo="" group-title="ASTRO",Astro Vaanavil 
+#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="ASTRO",Astro Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-country="MY" tvg-language="" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="ASTRO",Astro 小太阳 (Astro Xiao Tai Yang)
+#EXTINF:-1 tvg-id="AstroXiaoTaiYang.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Astro_XTY.png/200px-Astro_XTY.png" group-title="ASTRO",Astro 小太阳 (Astro Xiao Tai Yang)
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
@@ -42,7 +45,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="BeritaRTM.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",Berita RTM (1080p)
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="",Bernama TV (480p)
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="TV PREMIUM",Bernama TV (480p)
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",Boo
@@ -51,8 +54,38 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:-1 tvg-id="Naura.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="ASTRO",Naura (576p)
+#EXTINF:-1 tvg-id="Naura.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="ASTRO",Naura (576p)
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE HD
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="TV PREMIUM",KBS WORLD
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Fox-News-logo.jpg" group-title="TV PREMIUM",FOX NEWS CHANNEL
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUphGsPsjNpVByb0bcVJbuLnbGyjT6vdXjtPK5mOz9vYY5zieK" group-title="TV PREMIUM", CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636725371756507916.png" group-title="TV PREMIUM",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="TV PREMIUM",CHANNEL [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="aljazeera.png" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="TV PREMIUM",AL JAZEERA
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id=“CHANNEL NEWS ASIA” tvg-logo="newsasia.png"tvg-logo="https://4.bp.blogspot.com/-MhOkWbEPYjA/VYtjQLh5_jI/AAAAAAAAHLQ/s5BsN8Yumj4/s1600/NEWS+ASIA.jpg" group-title="TV PREMIUM", CHANNEL NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="ASTRO",ASTRO AEC HD
+http://51.79.208.146:61980/myplay/c_58025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="ASTRO",ASTRO AEC HD
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 
 #EXTINF:-1 tvg-id="NTV7.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MYTV",NTV 7 (720p)
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8

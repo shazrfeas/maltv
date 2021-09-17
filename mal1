@@ -104,7 +104,31 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro Arena
 
+http://194.233.70.176:25461/1/1/26
+
+
+
+
+
+#EXTINF:0 tvg-id="WWE.ca" group-title="ASTRO",WWE
+
+http://194.233.70.176:25461/1/1/28
+
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport
+
+http://194.233.70.176:25461/1/1/29
+
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 2
+
+http://194.233.70.176:25461/1/1/30
+
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 3
+
+http://194.233.70.176:25461/1/1/31
+
+#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 4
 
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE HD

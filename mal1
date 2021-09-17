@@ -48,7 +48,7 @@ https://github.com/zhafri/IPTV/raw/main/DramaSangat.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="MYTV",Awesome TV
-
+http://194.233.70.176:25461/1/1/7
 http://194.233.70.176:25461/1/1/7
 
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM (720p)
@@ -133,6 +133,7 @@ http://194.233.70.176:25461/1/1/30
 http://194.233.70.176:25461/1/1/31
 
 #EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 4
+
 http://194.233.70.176:25461/1/1/32
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE HD

@@ -5,7 +5,7 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="News",Astro Awani
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.google.com/search?q=logo+astro+ceria&rlz=1C1GCEA_enMY912MY912&sxsrf=AOaemvJrqSV31kq9-IjB0HUft0BfIcloaQ:1631850038795&tbm=isch&source=iu&ictx=1&fir=rAtYQm2j1WtNgM%252CYV9HnOie7iUheM%252C_&vet=1&usg=AI4_-kSIMo9uKzwklUDneBueBMHKLh6NiA&sa=X&ved=2ahUKEwiW_o2Pi4XzAhXk4zgGHeqaA9YQ9QF6BAgOEAE&biw=1366&bih=625&dpr=1#imgrc=rAtYQm2j1WtNgM" group-title="Kids",Astro Ceria (720p)
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Kids",Astro Ceria (720p)
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-country="MY" tvg-language="" tvg-logo="" group-title="",Astro Citra (720p) 
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8

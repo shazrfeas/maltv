@@ -69,10 +69,10 @@ http://my.odtv.uk:80/live/1159189903/4938860969/146.m3u8
 #EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYTV",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="MYTV",Awesome TV
+#EXTINF:0 tvg-id="ext" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV2.png" group-title="MYTV",Awesome TV
 http://194.233.70.176:25461/1/1/7
 http://194.233.70.176:25461/1/1/7
-#EXTINF:0 tvg-id="ext" group-title="MYTV",Awesome TV (b)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV2.png" group-title="MYTV",Awesome TV (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/175.m3u8
 
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM
@@ -135,10 +135,10 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 #EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="ASTRO",Astro Vaanavil 
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",ASTRO VINMEEN
+#EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/vinmeen.png" group-title="ASTRO",ASTRO VINMEEN
 http://my.odtv.uk:80/live/1159189903/4938860969/41.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",ASTRO BOLLYONE
+#EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/bollyone.png" group-title="ASTRO",ASTRO BOLLYONE
 http://my.odtv.uk:80/live/1159189903/4938860969/44.m3u8
 
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_SHX.png/220px-Astro_SHX.png" group-title="ASTRO",Astro Shuang Xing (720p)
@@ -157,67 +157,67 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",Boo (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/71.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",CINEMAX
+#EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/cinemax.png" group-title="ASTRO",CINEMAX
 http://my.odtv.uk:80/live/1159189903/4938860969/73.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",FOX MOVIES PREMIUM
+#EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/foxmovies.png" group-title="ASTRO",FOX MOVIES PREMIUM
 http://my.odtv.uk:80/live/1159189903/4938860969/74.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",FOX FAMILY MOVIES
+#EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/ffm.png" group-title="ASTRO",FOX FAMILY MOVIES
 http://my.odtv.uk:80/live/1159189903/4938860969/75.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ASTRO",FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/fam.png" group-title="ASTRO",FOX ACTION MOVIES
 http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro Arena
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/arena.png" group-title="ASTRO",Astro Arena
 http://194.233.70.176:25461/1/1/26
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro Arena (b)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/arena.png" group-title="ASTRO",Astro Arena (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/124.m3u8
 
-#EXTINF:0 tvg-id="WWE.ca" group-title="ASTRO",WWE
+#EXTINF:0 tvg-id="WWE.ca" tvg-logo="http://www.cloudnspro.xyz/esmi/wwe.png" group-title="ASTRO",WWE
 http://194.233.70.176:25461/1/1/28
-#EXTINF:0 tvg-id="WWE.ca" group-title="ASTRO",WWE (b)
+#EXTINF:0 tvg-id="WWE.ca" tvg-logo="http://www.cloudnspro.xyz/esmi/wwe.png" group-title="ASTRO",WWE (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/140.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport
 http://194.233.70.176:25461/1/1/29
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport (b1)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport (b1)
 http://my.odtv.uk:80/live/1159189903/4938860969/126.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport (b2)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport (b2)
 http://my.odtv.uk:80/live/1159189903/4938860969/230.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 2
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2
 http://194.233.70.176:25461/1/1/30
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 2 (b1)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2 (b1)
 http://my.odtv.uk:80/live/1159189903/4938860969/127.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 2 (b2)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2 (b2)
 http://my.odtv.uk:80/live/1159189903/4938860969/231.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 3
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3
 http://194.233.70.176:25461/1/1/31
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 3 (b1)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3 (b1)
 http://my.odtv.uk:80/live/1159189903/4938860969/128.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 3 (b2)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3 (b2)
 (b)http://my.odtv.uk:80/live/1159189903/4938860969/232.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 4
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp4.png" group-title="ASTRO",Astro SuperSport 4
 http://194.233.70.176:25461/1/1/32
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",Astro SuperSport 4 (b)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp4.png" group-title="ASTRO",Astro SuperSport 4 (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/129.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",FOX SPORTS 1
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs1.png" group-title="ASTRO",FOX SPORTS 1
 http://my.odtv.uk:80/live/http://my.odtv.uk:80/live/1159189903/4938860969/131.m3u81159189903/4938860969/130.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",FOX SPORTS 2
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs2.png" group-title="ASTRO",FOX SPORTS 2
 http://my.odtv.uk:80/live/1159189903/4938860969/131.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",FOX SPORTS 3
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs3.png" group-title="ASTRO",FOX SPORTS 3
 http://my.odtv.uk:80/live/1159189903/4938860969/132.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",BEIN SPORTS
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/bein.png" group-title="ASTRO",BEIN SPORTS
 http://my.odtv.uk:80/live/1159189903/4938860969/135.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ASTRO",BEIN SPORTS MAX
+#EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/beinm.png" group-title="ASTRO",BEIN SPORTS MAX
 http://my.odtv.uk:80/live/1159189903/4938860969/136.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE

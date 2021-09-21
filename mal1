@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv1.rtm.gov.my/assets/img/TV1.png" group-title="MYTV",TV1 (b)
+#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/207.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2
@@ -78,7 +78,7 @@ http://my.odtv.uk:80/live/1159189903/4938860969/175.m3u8
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://odwp.xyz/slogo/k/tawaf.png" group-title="MYTV",MAKKAH
+#EXTINF:-1 tvg-id="ext" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://images.app.goo.gl/mH43pS147Skodc7z9" group-title="MYTV",MAKKAH
 http://my.odtv.uk:80/live/1159189903/4938860969/353.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MYTV",Bernama TV

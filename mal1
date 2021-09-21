@@ -108,7 +108,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="HYPPTV", SalamHD 
-http://1.9.62.165//PLTV/88888888/224/3221227558/video-Video1_6-2602348.m4v? 
+http://1.9.62.165//PLTV/88888888/224/3221227558/video-Video1_6-2602348.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="ASTRO",ASTRO Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8

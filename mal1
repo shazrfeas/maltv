@@ -5,6 +5,11 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/207.m3u8
 
+#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 test
+
+
+http://51.79.205.185:25461/live/1159189903/4938860969/4.m3u8
+
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2 (b)

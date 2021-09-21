@@ -3,73 +3,73 @@
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/207.m3u8
+
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 test
 
 
-http://51.79.205.185:25461/live/1159189903/4938860969/4.m3u8
+
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/208.m3u8
+
 
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MYTV",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MYTV",TV3 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/212.m3u8
+
 
 #EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/1098.m3u8
+
 
 #EXTINF:-1 tvg-id="NTV7.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MYTV",NTV 7
 http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV7.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MYTV",NTV 7 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/30.m3u8
+
 
 #EXTINF:-1 tvg-id="8TV.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MYTV",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MYTV",8TV (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/31.m3u8
+
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MYTV",TV9
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MYTV",TV9 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/32.m3u8
+
 
 #EXTINF:-1 tvg-id="110" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="110" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/221.m3u8
+
 
 #EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-id="111" group-title="MYTV" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/158.m3u8
+
 
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MYTV",TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="MYTV",TV Alhijrah (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/24.m3u8
+
 
 #EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-http://my.odtv.uk:80/live/1159189903/4938860969/1722.m3u8
+
 
 #EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="http://www.cloudnspro.xyz/esmi/dsg.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/zhafri/IPTV/raw/main/DramaSangat.m3u8
 #EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="http://www.cloudnspro.xyz/esmi/dsg.png",Drama Sangat (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/146.m3u8
+
 
 #EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYTV",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
@@ -78,7 +78,7 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 http://194.233.70.176:25461/1/1/7
 http://194.233.70.176:25461/1/1/7
 #EXTINF:0 tvg-id="ext" tvg-logo="http://odwp.xyz/slogo/awesome.png" group-title="MYTV",Awesome TV (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/175.m3u8
+
 
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
@@ -98,14 +98,14 @@ https://iptv--iptv.repl.co/Arabic/Sunnah_TV
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MYTV",Bernama TV
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MYTV",Bernama TV (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/78.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="TVS.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="ASTRO",TVS
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1 tvg-id="TVS.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="ASTRO",TVS (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/29.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="ASTRO",Astro Awani (1080p)
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -118,38 +118,38 @@ http://1.9.62.165//PLTV/88888888/224/3221227558/video-Video1_6-2602348.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="ASTRO",ASTRO Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="ASTRO",ASTRO Ceria (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/99.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="ASTRO",ASTRO Oasis
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroOasis.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="ASTRO",ASTRO Oasis (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/17.m3u8
+
 
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO Ria
 #http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="ASTRO RIA" group-title="ASTRO" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO Ria (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/13.m3u8
+
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title="ASTRO",ASTRO Prima
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA" tvg-logo="http://www.cloudnspro.xyz/esmi/prima.png" group-title="ASTRO",ASTRO Prima
-http://my.odtv.uk:80/live/1159189903/4938860969/16.m3u8
+
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO Warna (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/18.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-country="MY" tvg-language="" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="ASTRO",ASTRO Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-country="MY" tvg-language="" tvg-logo="http://www.cloudnspro.xyz/esmi/citra.png" group-title="ASTRO",ASTRO Citra (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/311.m3u8
+
 
 #EXTINF:-1 tvg-id="Naura.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="ASTRO",Naura
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="Naura.my" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="ASTRO",Naura (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/20.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="" group-title="ASTRO", ASTRO VELLITHIRAI 
 http://world-iptv.net:8080/3annaPR1022TV9/4XKd4Xndaw/28698
@@ -160,10 +160,10 @@ https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/vinmeen.png" group-title="ASTRO",ASTRO VINMEEN
-http://my.odtv.uk:80/live/1159189903/4938860969/41.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/bollyone.png" group-title="ASTRO",ASTRO BOLLYONE
-http://my.odtv.uk:80/live/1159189903/4938860969/44.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Astro_SHX.png/220px-Astro_SHX.png" group-title="ASTRO",Astro Shuang Xing (720p)
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -174,85 +174,85 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/MSIA/index.m3u8
 #EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/72.m3u8
+
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="http://odwp.xyz/slogo/boo.png" group-title="ASTRO",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-id="Boo.my" tvg-country="MY" tvg-language="" tvg-logo="http://odwp.xyz/slogo/boo.png" group-title="ASTRO",Boo (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/71.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cloudnspro.xyz/esmi/cinemax.png" group-title="ASTRO",CINEMAX
-http://my.odtv.uk:80/live/1159189903/4938860969/73.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/foxmovies.png" group-title="ASTRO",FOX MOVIES PREMIUM
-http://my.odtv.uk:80/live/1159189903/4938860969/74.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/ffm.png" group-title="ASTRO",FOX FAMILY MOVIES
-http://my.odtv.uk:80/live/1159189903/4938860969/75.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://odwp.xyz/slogo/fam.png" group-title="ASTRO",FOX ACTION MOVIES
-http://my.odtv.uk:80/live/1159189903/4938860969/76.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/arena.png" group-title="ASTRO",Astro Arena
 http://194.233.70.176:25461/1/1/26
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/arena.png" group-title="ASTRO",Astro Arena (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/124.m3u8
+
 
 #EXTINF:0 tvg-id="WWE.ca" tvg-logo="http://www.cloudnspro.xyz/esmi/wwe.png" group-title="ASTRO",WWE
 http://194.233.70.176:25461/1/1/28
 #EXTINF:0 tvg-id="WWE.ca" tvg-logo="http://www.cloudnspro.xyz/esmi/wwe.png" group-title="ASTRO",WWE (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/140.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport
 http://194.233.70.176:25461/1/1/29
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport (b1)
-http://my.odtv.uk:80/live/1159189903/4938860969/126.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp.png" group-title="ASTRO",Astro SuperSport (b2)
-http://my.odtv.uk:80/live/1159189903/4938860969/230.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2
 http://194.233.70.176:25461/1/1/30
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2 (b1)
-http://my.odtv.uk:80/live/1159189903/4938860969/127.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp2.png" group-title="ASTRO",Astro SuperSport 2 (b2)
-http://my.odtv.uk:80/live/1159189903/4938860969/231.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3
 http://194.233.70.176:25461/1/1/31
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3 (b1)
-http://my.odtv.uk:80/live/1159189903/4938860969/128.m3u8
+
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp3.png" group-title="ASTRO",Astro SuperSport 3 (b2)
-(b)http://my.odtv.uk:80/live/1159189903/4938860969/232.m3u8
+(b)
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp4.png" group-title="ASTRO",Astro SuperSport 4
 http://194.233.70.176:25461/1/1/32
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/assp4.png" group-title="ASTRO",Astro SuperSport 4 (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/129.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs1.png" group-title="ASTRO",FOX SPORTS 1
-http://my.odtv.uk:80/live/http://my.odtv.uk:80/live/1159189903/4938860969/131.m3u81159189903/4938860969/130.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs2.png" group-title="ASTRO",FOX SPORTS 2
-http://my.odtv.uk:80/live/1159189903/4938860969/131.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/fs3.png" group-title="ASTRO",FOX SPORTS 3
-http://my.odtv.uk:80/live/1159189903/4938860969/132.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/bein.png" group-title="ASTRO",BEIN SPORTS
-http://my.odtv.uk:80/live/1159189903/4938860969/135.m3u8
+
 
 #EXTINF:0 tvg-id="ext" tvg-logo="http://www.cloudnspro.xyz/esmi/beinm.png" group-title="ASTRO",BEIN SPORTS MAX
-http://my.odtv.uk:80/live/1159189903/4938860969/136.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/393_300.png" group-title="TV PREMIUM",ONE (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/67.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="TV PREMIUM",KBS WORLD
 http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_(2009).svg/1280px-KBS_World_(2009).svg.png" group-title="TV PREMIUM",KBS WORLD (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/66.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/02/Fox-News-logo.jpg" group-title="TV PREMIUM",FOX NEWS CHANNEL
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -260,12 +260,12 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUphGsPsjNpVByb0bcVJbuLnbGyjT6vdXjtPK5mOz9vYY5zieK" group-title="TV PREMIUM", CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUphGsPsjNpVByb0bcVJbuLnbGyjT6vdXjtPK5mOz9vYY5zieK" group-title="TV PREMIUM", CNN (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/80.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636725371756507916.png" group-title="TV PREMIUM",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.etere.com/DocImageArchive/636725371756507916.png" group-title="TV PREMIUM",CNBC (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/85.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="TV PREMIUM",CHANNEL [V]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -273,23 +273,23 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="aljazeera.png" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="TV PREMIUM",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="aljazeera.png" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png" group-title="TV PREMIUM",AL JAZEERA (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/82.m3u8
+
 
 #EXTINF:-1 tvg-id=“CHANNEL NEWS ASIA” tvg-logo="newsasia.png"tvg-logo="https://4.bp.blogspot.com/-MhOkWbEPYjA/VYtjQLh5_jI/AAAAAAAAHLQ/s5BsN8Yumj4/s1600/NEWS+ASIA.jpg" group-title="TV PREMIUM", CHANNEL NEWS ASIA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id=“CHANNEL NEWS ASIA” tvg-logo="newsasia.png"tvg-logo="https://4.bp.blogspot.com/-MhOkWbEPYjA/VYtjQLh5_jI/AAAAAAAAHLQ/s5BsN8Yumj4/s1600/NEWS+ASIA.jpg" group-title="TV PREMIUM", CHANNEL NEWS ASIA (b)
-http://my.odtv.uk:80/live/1159189903/4938860969/84.m3u8
+
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="TV PREMIUM",&Flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="TV PREMIUM",&Flix (b1)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="TV PREMIUM",&Flix (b2)
-http://my.odtv.uk:80/live/1159189903/4938860969/682.m3u8
+
 
 #EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="TV PREMIUM",&privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="TV PREMIUM",&privé HD (b1)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="AndPriveHD.in" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="TV PREMIUM",&privé HD (b2)
-http://my.odtv.uk:80/live/1159189903/4938860969/684.m3u8
+

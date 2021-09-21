@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="MYTV",TV1
+#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="MYTV",TV1 (b)
+#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="http://www.cloudnspro.xyz/esmi/1.png" group-title="MYTV",TV1 (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/207.m3u8
 
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="MYTV",TV2
@@ -60,19 +60,19 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 http://my.odtv.uk:80/live/1159189903/4938860969/1722.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="http://www.cloudnspro.xyz/esmi/dsg.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://github.com/zhafri/IPTV/raw/main/DramaSangat.m3u8
-#EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat (b)
+#EXTINF:-1 tvg-id="CHN" group-title="MYTV" tvg-logo="http://www.cloudnspro.xyz/esmi/dsg.png",Drama Sangat (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/146.m3u8
 
 #EXTINF:-1 tvg-id="Hello.my" tvg-country="MY" tvg-language="English" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MYTV",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
 
-#EXTINF:0 tvg-id="ext" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV2.png" group-title="MYTV",Awesome TV
+#EXTINF:0 tvg-id="ext" tvg-logo="http://odwp.xyz/slogo/awesome.png" group-title="MYTV",Awesome TV
 http://194.233.70.176:25461/1/1/7
 http://194.233.70.176:25461/1/1/7
-#EXTINF:0 tvg-id="ext" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AwesomeTV2.png" group-title="MYTV",Awesome TV (b)
+#EXTINF:0 tvg-id="ext" tvg-logo="http://odwp.xyz/slogo/awesome.png" group-title="MYTV",Awesome TV (b)
 http://my.odtv.uk:80/live/1159189903/4938860969/175.m3u8
 
 #EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MYTV",TVIKIM
